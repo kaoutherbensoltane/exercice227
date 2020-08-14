@@ -24,3 +24,66 @@ margin: 50px   50px 9px ;
     
     
     }  
+
+    .imgg{
+        width: 250px ; 
+        margin:  100px;
+        cursor: pointer;
+       
+        border-radius: 1000% 200% 400% 400% ;
+        box-shadow: 0 0 16px 2px rgba(41, 35, 38, 0.466);
+        
+
+
+    }
+
+    .log{
+
+
+        width: 50px;
+        margin-left: 50px;
+    
+    }
+
+
+    .form-demo input{
+
+display: block;
+margin: 10px;
+
+
+    }
+
+    .inn{
+        width: 250px ; 
+        margin:  100px;
+        cursor: pointer;
+       
+        border-radius: 1000% 200% 400% 400% ;
+        box-shadow: 0 0 16px 2px rgba(41, 35, 38, 0.466);
+        
+
+
+    }
+    .o{
+margin: 30px;
+
+
+    }
+.lab1{
+
+    display: block;
+    margin: 20px;
+}
+
+.lab2{
+
+    display: block;
+    margin: 20px;
+}
+
+.b{
+
+margin-top: 5px ;
+margin-left: 350px;
+}
